@@ -1,0 +1,20 @@
+[
+    {
+        "FirstName": "Charlotte",
+        "Age": 31,
+        "City": "Paris",
+        "Email": "charlotte@test.com"
+    },
+    {
+        "FirstName": "Anna",
+        "Age": 35,
+        "City": "Paris",
+        "Email": "anna@test.com"
+    },
+    {
+        "FirstName": "Bruno",
+        "Age": 25,
+        "City": "Paris",
+        "Email": "bruno@test.com"
+    }
+]
